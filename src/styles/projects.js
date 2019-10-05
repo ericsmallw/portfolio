@@ -7,11 +7,11 @@ import {
     SiteColors
 } from "./main"
 import ItWorksPng from '../images/itworks.png';
-import LoisPng from '../images/lois.png';
-import UberPng from '../images/uber.png';
-import EscreenPng from '../images/escreengohh.png';
-import WhizzimoPng from '../images/whizzimo.png';
-import DiversityPng from '../images/diversity.png';
+import LoisPng from './../images/lois.png';
+import UberPng from './../images/uber.png';
+import EscreenPng from './../images/escreengohh.png';
+import WhizzimoPng from './../images/whizzimo.png';
+import DiversityPng from './../images/diversity.png';
 
 const ProjectsContainer = {
     ...FlexContainer,
